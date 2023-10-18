@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added first line in text file
+=======
+this is first line in text file
+>>>>>>> 0c0b8cbae24f7e38b77b66d447b59f9d19a4fba9
